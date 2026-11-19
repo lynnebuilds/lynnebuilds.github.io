@@ -1,5 +1,5 @@
 ---
-title: 'LangGraph 源码学习（00）：全局架构地图与一次 invoke 的完整链路'
+title: 'LangGraph 源码学习00：全局架构地图与一次 invoke 的完整链路'
 description: '从 6 层架构、Monorepo 依赖倒置，到 Pregel BSP 三阶段执行模型与 Channel/Checkpoint 底层结构，拆解一次 invoke 的完整运行链路。'
 publishDate: '2026-11-18 18:00:00'
 tags:
