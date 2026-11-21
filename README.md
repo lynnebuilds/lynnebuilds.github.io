@@ -1,10 +1,10 @@
-# Phosrick's Blog
+# Lynne's Blog
 
 基于 [Astro Pure](https://github.com/cworld1/astro-theme-pure) 主题构建的个人博客，使用 Astro + UnoCSS 打造，静态部署在 GitHub Pages。
 
 ## 简介
 
-这是我的个人博客，用于记录技术笔记、思考与日常。线上地址：[https://phosrick.github.io](https://phosrick.github.io)。
+这是我的个人博客，用于记录技术笔记、思考与日常。线上地址：[https://lynnebuilds.github.io](https://lynnebuilds.github.io)。
 
 ### 内容结构
 
@@ -36,7 +36,7 @@ bun pure new
 
 ## 部署
 
-本项目输出为静态站点（`output: 'static'`），已在 `astro.config.ts` 中配置 `site: 'https://phosrick.github.io'`，可直接通过 GitHub Pages 部署，构建产物位于 `dist/` 目录。
+本项目输出为静态站点（`output: 'static'`），已在 `astro.config.ts` 中配置 `site: 'https://lynnebuilds.github.io'`，可直接通过 GitHub Pages 部署，构建产物位于 `dist/` 目录。
 
 如需部署到 Vercel、Netlify 等其他平台，可在 `astro.config.ts` 中启用对应的 Adapter。详见 [Astro Pure 部署文档](https://astro-pure.js.org/docs/setup/deployment)。
 
